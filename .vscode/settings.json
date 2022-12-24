@@ -1,0 +1,9 @@
+{
+  "conventionalCommits.scopes": [
+    "assets",
+    "styles",
+    "app",
+    "angular",
+    "cabecalho"
+  ]
+}
