@@ -1,0 +1,43 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "A vida é uma caixinha de surpresas",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "A vida é uma caixinha de surpresas",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo2"
+
+    },
+    {
+      "id": 3,
+      "conteudo": "A vida é uma caixinha de surpresas",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo1"
+
+    },
+    {
+      "id": 4,
+      "conteudo": "A vida é uma caixinha de surpresas",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo3"
+
+    },
+    {
+      "id": 5,
+      "conteudo": "A vida é uma caixinha de surpresas",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 6,
+      "conteudo": "A vida é uma caixinha de surpresas",
+      "autoria": "Mário Quintana",
+      "modelo": "modelo2"
+    }
+  ]
+}
