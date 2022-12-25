@@ -11,5 +11,13 @@ export class CriarPensamentoComponent {
     conteudo: 'Aprendendo Angular',
     autoria: 'Dev',
     modelo: ''
-}
+  }
+
+  criarPensamento() {
+    alert('Pensamento criado com sucesso!');
+  }
+
+  cancelar() {
+    alert('Operação cancelada!');
+  }
 }
