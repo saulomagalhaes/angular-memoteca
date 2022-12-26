@@ -5,6 +5,12 @@
     "app",
     "angular",
     "cabecalho",
-    "rodape"
+    "rodape",
+    "criar-pensamento",
+    "listar-pensamento",
+    "routing",
+    "pensamento",
+    "jsonserve",
+    "interfaces"
   ]
 }
