@@ -13,6 +13,7 @@
     "jsonserve",
     "interfaces",
     "excluir-pensamento",
-    "pensamento-service"
+    "pensamento-service",
+    "editar-pensamento"
   ]
 }
