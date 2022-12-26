@@ -11,6 +11,8 @@
     "routing",
     "pensamento",
     "jsonserve",
-    "interfaces"
+    "interfaces",
+    "excluir-pensamento",
+    "pensamento-service"
   ]
 }
